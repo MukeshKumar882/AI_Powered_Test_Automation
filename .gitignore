@@ -1,0 +1,18 @@
+# Maven build and reports
+/target/
+/allure-results/
+/allure-report/
+
+# Local browser and Selenium Manager artifacts
+/chromedriver/
+/se-metadata.json
+
+# IDE and OS files
+/.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs and generated HTML result exports
+*.log
+/Test Results*.html

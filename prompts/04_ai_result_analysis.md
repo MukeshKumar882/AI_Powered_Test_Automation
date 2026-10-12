@@ -1,0 +1,3 @@
+# Prompt: Cucumber execution analysis
+
+Analyze target/cucumber.json. Report total, passed, failed, skipped, and pass percentage. Cluster failures by observed evidence: locator/wait, environment/site access, assertion/business behavior, and recommendation threshold. For each cluster include scenario IDs and error text. Label root causes as hypotheses. Identify five investigations and suggested regression tests. Do not label an environment or automation failure as an application defect without evidence. State missing or ambiguous result data. Verify all counts against the JSON before sharing the summary.

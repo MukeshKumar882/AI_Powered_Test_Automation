@@ -1,0 +1,7 @@
+criterion,searchTerm,keywords,minPercentage
+AC2,moisturizer,moisturizer;moisture;hydrating;cream;lotion;skin;face;serum,0
+AC2,mascara,mascara;lash;eye;makeup,0
+AC2,vitamin c serum,vitamin c;serum;brightening;skin,0
+AC5,moisturizer,moisturizer;moisture;hydrate;hydration;hydrating;cream;lotion;skin;face;serum,30
+AC6,cart,moisturizer;moisture;hydrate;hydration;hydrating;cream;lotion;skin;face;mascara;lash;eye;makeup,25
+AC7,combined,skin;face;cream;serum;eye;lip;makeup;beauty;hydrate;hydration;hydrating;glow;lash;mascara;moisturizer;cosmetic,20
